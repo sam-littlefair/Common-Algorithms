@@ -1,5 +1,6 @@
 import java.util.*;
 
+/* Java code for depth first and breadth first search */
 public class DFSandBFS {
     public static void main(String args[]) {
 
